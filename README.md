@@ -19,3 +19,15 @@ To analyze how demographic and family characteristics influence outcomes using P
 - Python
 - pandas
 - NumPy
+  
+## Python Assignment 2 – Logic & Analysis Practice
+
+### Objective
+To demonstrate Python programming skills through logic-based analysis and structured code.
+
+### Input
+- No external dataset used.
+- Assignment focuses on Python logic, functions, and analysis techniques.
+
+### Output
+- Well-structured Python code demonstrating problem-solving and analytical thinking.
